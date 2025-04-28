@@ -12,6 +12,9 @@ Realiza una acción al azar sobre un elemento existente en la página:
 - ✔️ Hacer click en un botón al azar
 
 ## ⚙️ Instalación
+
+**Si descargaste el archivo .zip, por favor únicamente acceda a la carpeta 'monkey-testing' para continuar.**
+
 ```bash
 git clone https://github.com/leonelparrales22/monkey-web.git
 cd monkey-testing

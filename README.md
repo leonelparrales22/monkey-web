@@ -13,7 +13,7 @@ Realiza una acción al azar sobre un elemento existente en la página:
 
 ## ⚙️ Instalación
 ```bash
-git clone https://github.com/leonelparrales/monkey-web.git
+git clone https://github.com/leonelparrales22/monkey-web.git
 cd monkey-testing
 npm install cypress --save-dev
 ```
